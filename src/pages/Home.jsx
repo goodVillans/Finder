@@ -1,5 +1,5 @@
-import UserList from '../components/users/userList'
-import Search from '../components/users/Search'
+import Search from '../components/users/Search';
+import UserList from '../components/users/UserList'
 
 function Home() {
   return (
