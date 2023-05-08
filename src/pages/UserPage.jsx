@@ -70,7 +70,7 @@ function UserPage() {
               </h1>
               <p>{bio}</p>
               <div className="mt-4 card-actions">
-                <a href={html_url} taget= '_blank' rel='noreferrer'className='btn btn-outline'>
+                <a href={html_url} target='_blank' rel='noreferrer'className='btn btn-outline'>
                   Vist Profile
                 </a>
               </div>
