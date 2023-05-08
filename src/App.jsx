@@ -1,11 +1,11 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 // Layout components
-import Navbar from './components/layout/navbar'
+import Navbar from './components/layout/Navbar'
 import Footer from './components/layout/Footer'
 import Alert from './components/layout/Alert'
 // Pages
-import Home from './pages/home'
-import About from './pages/about'
+import Home from './pages/Home'
+import About from './pages/About'
 import NotFound from './pages/NotFound'
 import UserPage from './pages/UserPage'
 import { GithubProvider } from './context/github/GithubContext'

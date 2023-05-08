@@ -1,5 +1,5 @@
 import { useState, useContext } from 'react'
-import UserItem from './USerItem';
+import UserItem from './UserItem';
 import PuffLoader from 'react-spinners/PuffLoader'
 import GithubContext from '../../context/github/GithubContext';
 
