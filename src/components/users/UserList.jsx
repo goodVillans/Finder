@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState, useContext } from 'react'
 import UserItem from './UserItem';
 import PuffLoader from 'react-spinners/PuffLoader'
