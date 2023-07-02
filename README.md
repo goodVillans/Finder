@@ -73,3 +73,7 @@ CONTEXT
 PAGES
    Composed main site pages drawing from aforementioned childern components
 >>>>>>> master
+
+.ENV
+ .env file needs to be created and you will need to add your personal access token and the API url to it in order for this application to work.
+ 
